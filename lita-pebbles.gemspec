@@ -4,13 +4,13 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'lita/pebbles/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "lita-pebbles"
-  spec.version       = Lita::Pebbles::VERSION
-  spec.authors       = ["fukayatsu"]
-  spec.email         = ["fukayatsu@gmail.com"]
+  spec.name          = "lita-pebbles-inu"
+  spec.version       = Lita::Pebbles::Inu::VERSION
+  spec.authors       = ["taea"]
+  spec.email         = ["igiari@gmail.com"]
   spec.summary       = %q{A Lita handlers for fun :)}
   spec.description   = %q{A Lita handlers for fun :)}
-  spec.homepage      = "https://github.com/fukayatsu/lita-pebbles"
+  spec.homepage      = "https://github.com/taea/lita-pebbles-inu"
   spec.license       = "MIT"
 
   spec.metadata = { "lita_plugin_type" => "handler" }
