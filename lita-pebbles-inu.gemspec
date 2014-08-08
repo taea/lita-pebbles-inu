@@ -5,7 +5,7 @@ require 'lita/pebbles/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "lita-pebbles-inu"
-  spec.version       = Lita::Pebbles::Inu::VERSION
+  spec.version       = Lita::PebblesInu::VERSION
   spec.authors       = ["taea"]
   spec.email         = ["igiari@gmail.com"]
   spec.summary       = %q{A Lita handlers for fun :)}

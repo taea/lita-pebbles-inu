@@ -1,6 +1,5 @@
 module Lita
-  module Pebbles
-    module Inu
+  module PebblesInu
       VERSION = "0.0.1"
     end
   end
